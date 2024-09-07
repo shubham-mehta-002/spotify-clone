@@ -1,0 +1,8 @@
+PORT = 3000
+password=QVGA7yueYIgpxtB3
+username=shubham
+JWT_SECRET_KEY="knfkasfnkfnasknkn"
+CORS=0.0.0.0/0
+API_SECRET = PeiHWeBslXbbJ-yhuS3uwm2BZaE 
+API_KEY = 521379395296322
+CLOUD_NAME = dudcrgnld, 

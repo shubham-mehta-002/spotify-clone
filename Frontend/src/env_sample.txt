@@ -1,0 +1,3 @@
+API_SECRET = PeiHWeBslXbbJ-yhuS3uwm2BZaE 
+API_KEY = 521379395296322
+CLOUD_NAME = dudcrgnld, 
