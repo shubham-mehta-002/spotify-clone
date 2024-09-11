@@ -6,7 +6,6 @@ import { useLoginContext } from "../../../Context/loginContext";
 import { BASE_URL } from "../../../constant";
 
 export function LoginForm() {
-  // const [cookie, setCookie] = useCookies(["token"])
   const navigate = useNavigate();
 
   const {

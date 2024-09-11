@@ -22,7 +22,7 @@ export function PlaylistSidebar() {
             ? "bg-customGray "
             : "bg-inherit"
         }
-        h-1/5 will-change-auto p-1 text-white  m-1 flex flex-row gap-4 hover:bg-customGray hover:cursor-pointer rounded-md`}
+        h-16 will-change-auto p-1 text-white  m-1 flex flex-row gap-4 hover:bg-customGray hover:cursor-pointer rounded-md`}
       >
         <div className="h-9/10 w-1/5 ">
           <img src={heart} className="h-full w-full rounded" />

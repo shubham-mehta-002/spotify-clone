@@ -10,7 +10,7 @@ export function PasswordInput({
   registerDetails: { register, registerFor, validation },
 }) {
   
-  const [passwordVisibility, setPasswordVisibility] = useState(true);
+  const [passwordVisibility, setPasswordVisibility] = useState(false);
 
   return (
     <div className={`w-full flex flex-col gap-2 mb-4 ${classname}`}>
