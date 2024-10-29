@@ -1,4 +1,7 @@
-# Music Streaming Platform    [Live Here](https://spotify-clone-f-xulu.onrender.com/)
+# Music Streaming Platform    
+[Live Here](https://spotify-clone-f-xulu.onrender.com/)
+
+
 This music streaming platform clone, built with the MERN stack, caters to both creators and users by providing tailored features and functionalities that enhance the experience for each group.
 
 For creators, the platform offers a user-friendly interface to upload their music and engage with their audience.
